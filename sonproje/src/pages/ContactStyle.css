@@ -1,0 +1,24 @@
+.form-container {
+    margin-top: 50px;
+    padding-left: 60px; 
+    padding-right: 60px; 
+  }
+
+.form-container label {
+    font-weight: bold;
+  }
+
+.btn-primary {
+    font-size: 20px;
+    padding: 10px 10px;
+    background-color: rgb(82, 82, 87) !important;
+  }
+
+  .form-container {
+    background-color: #dee7f0; 
+  }
+
+  .checked-checkbox {
+    background-color: #7caa98 !important; 
+  }
+  
